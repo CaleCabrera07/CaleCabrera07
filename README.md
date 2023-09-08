@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CaleCabrera07
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning MERN Stack to become a Full Stack Developer.
-- 💞️ I’m looking to collaborate on Open-Source projects, crypto projects & mind-blowing projects!
+- 💻 I'm a skilled software developer with experience in JavaScript and TypeScript, and expertise in frameworks like Node.js, React and Next.js. I'm a quick learner and collaborate closely with colleagues and clients to create efficient, scalable, and user-friendly solutions that solve real-world problems.
 - 📫 How to reach me? contact me at ccarlosalejandros@gmail.com
 
 <!---
