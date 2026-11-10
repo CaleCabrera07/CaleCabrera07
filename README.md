@@ -72,61 +72,76 @@ I am a software engineer who enjoys taking ideas from concept to working product
 
 </details>
 
+
 ## 🚀 Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://www.lanwi.app/"><img src="./assets/projects/lanwi.webp" width="100%" alt="LANWI language learning platform screenshot" /></a>
-  <h3>🌎 <a href="https://www.lanwi.app/">LANWI</a></h3>
-  <p>An independent language-learning product with interactive exercises and AI-powered practice.</p>
-  <p><strong>Independent product</strong> &nbsp;·&nbsp; <a href="https://www.lanwi.app/">Explore LANWI</a></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://repeat-ve.vercel.app/"><img src="./assets/projects/repeat.webp" width="100%" alt="REPEAT fashion marketplace demo screenshot" /></a>
-  <h3>🛍️ <a href="https://repeat-ve.vercel.app/">REPEAT</a></h3>
-  <p>A mobile-first fashion marketplace for buying and selling new and secondhand pieces in Venezuela.</p>
-  <p><strong>In development</strong> &nbsp;·&nbsp; <a href="https://repeat-ve.vercel.app/">View demo</a></p>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%" valign="middle">
-  <a href="https://www.thesoccerlab.pro/"><img src="./assets/projects/tsl.webp" width="100%" alt="The Soccer Lab academy website screenshot" /></a>
-</td>
-<td width="50%" valign="middle">
-  <h3>⚽ <a href="https://www.thesoccerlab.pro/">The Soccer Lab</a></h3>
-  <p>A soccer academy platform bringing together club information, matches, competitions, and community updates.</p>
-  <p><strong>Client project</strong></p>
-  <p><a href="https://www.thesoccerlab.pro/">Visit website</a></p>
-</td>
-</tr>
-</table>
-
-## 🍷 CaleCode
-
-<table>
-<tr>
-<td width="120" align="center" valign="middle">
-  <a href="https://www.calecode.dev/"><img src="./assets/brand/calecode-logo.webp" width="110" alt="Official CaleCode logo" /></a>
-</td>
-<td valign="middle">
-  <strong>Software engineering, from idea to product.</strong>
-  <p>CaleCode is my personal brand for client software projects and independent products.</p>
-  <a href="https://www.calecode.dev/">Explore CaleCode</a>
-</td>
-</tr>
-</table>
 
 <div align="center">
 
-<h3>🤝 Let's build something useful</h3>
+<a href="https://www.lanwi.app/">
+  <img src="./assets/projects/lanwi.webp" width="850" alt="LANWI language-learning platform" />
+</a>
 
-<p>Have a product idea, a technical challenge, or a collaboration in mind?</p>
+<h3>🌎 LANWI</h3>
 
-<a href="https://www.calecode.dev/"><img src="https://img.shields.io/badge/Explore_my_work-55101A?style=for-the-badge&logo=googlechrome&logoColor=FAF7F4" alt="Explore my work" /></a>
-<a href="https://www.linkedin.com/in/carloscabrerasemidey/"><img src="https://img.shields.io/badge/Let's_connect-242123?style=for-the-badge&logo=linkedin&logoColor=FAF7F4" alt="Connect on LinkedIn" /></a>
+<p>Interactive language learning, with exercises and AI-powered practice.</p>
+
+<p><strong>Independent product</strong> &nbsp;·&nbsp; <a href="https://www.lanwi.app/">Explore LANWI</a></p>
+
+<br /><br />
+
+<a href="https://repeat-ve.vercel.app/">
+  <img src="./assets/projects/repeat.webp" width="850" alt="REPEAT fashion marketplace demo" />
+</a>
+
+<h3>🛍️ REPEAT</h3>
+
+<p>A mobile-first marketplace for buying and selling fashion in Venezuela.</p>
+
+<p><strong>In development</strong> &nbsp;·&nbsp; <a href="https://repeat-ve.vercel.app/">View demo</a></p>
+
+<br /><br />
+
+<a href="https://www.thesoccerlab.pro/">
+  <img src="./assets/projects/tsl.webp" width="850" alt="The Soccer Lab website" />
+</a>
+
+<h3>⚽ The Soccer Lab</h3>
+
+<p>A soccer academy platform for matches, competitions, news, and community updates.</p>
+
+<p><strong>Client project</strong> &nbsp;·&nbsp; <a href="https://www.thesoccerlab.pro/">Visit website</a></p>
 
 </div>
+
+
+
+## 🍷 CaleCode
+
+<div align="center">
+
+<a href="https://www.calecode.dev/">
+  <img src="./assets/brand/calecode-logo.webp" width="200" alt="CaleCode official logo" />
+</a>
+
+<br />
+
+<h3>Software engineering, from idea to product.</h3>
+
+<p>
+  CaleCode is my personal software engineering brand, focused on building
+  web applications, mobile experiences, and digital products.
+</p>
+
+<p>
+  From client collaborations to independent ventures,
+  I turn ideas into real, functional software.
+</p>
+
+<p>
+  <strong>Personal Brand</strong>
+  &nbsp;·&nbsp;
+  <a href="https://www.calecode.dev/">Explore CaleCode</a>
+</p>
+
+</div>
+
