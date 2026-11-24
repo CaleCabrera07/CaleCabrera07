@@ -97,7 +97,7 @@ I am a software engineer who enjoys taking ideas from concept to working product
 
 <p>A mobile-first marketplace for buying and selling fashion in Venezuela.</p>
 
-<p><strong>In development</strong> &nbsp;·&nbsp; <a href="https://repeat-ve.vercel.app/">View demo</a></p>
+<p><strong>In development</strong> &nbsp;·&nbsp; <a href="https://www.enrepeat.com/">View demo</a></p>
 
 <br /><br />
 
